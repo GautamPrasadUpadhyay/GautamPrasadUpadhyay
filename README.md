@@ -70,23 +70,15 @@
 </tr>
 </table>
 
-<p align="center">
+
+
+<a href="https://github.com/GautamPrasadUpadhyay">
   <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://streak-stats.demolab.com?user=GautamPrasadUpadhyay&theme=github-dark&hide_border=true&date_format=M+j[, Y]&ring=DD2727&fire=DD2727&currStreakLabel=DD2727"
-    >
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://streak-stats.demolab.com?user=GautamPrasadUpadhyay&theme=default&hide_border=true&date_format=M+j[, Y]&ring=0366D6&fire=0366D6&currStreakLabel=0366D6"
-    >
-    <img 
-      align="center" 
-      width="450" 
-      src="https://streak-stats.demolab.com?user=GautamPrasadUpadhyay&theme=default&hide_border=true&date_format=M+j[, Y]&ring=0366D6&fire=0366D6&currStreakLabel=0366D6" 
-      alt="Gautam Prasad Upadhyay's GitHub Streak Stats"
-    >
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=GautamPrasadUpadhyay&theme=dark&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=GautamPrasadUpadhyay&hide_border=false">
+  <img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=GautamPrasadUpadhyay&hide_border=false" alt="GitHub Streak Stats">
+</picture>
+</a>
 </p>
 <br>
 <br>
