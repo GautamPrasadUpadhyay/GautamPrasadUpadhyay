@@ -70,14 +70,15 @@
 </tr>
 </table>
 
-
-
-<a href="https://github.com/GautamPrasadUpadhyay">
+<!--<a href="https://github.com/GautamPrasadUpadhyay">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=GautamPrasadUpadhyay&theme=dark&hide_border=false">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=GautamPrasadUpadhyay&hide_border=false">
   <img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=GautamPrasadUpadhyay&hide_border=false" alt="GitHub Streak Stats">
-</picture>
+</picture>-->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GautamPrasadUpadhyay)](https://git.io/streak-stats)
+
 </a>
 </p>
 <br>
