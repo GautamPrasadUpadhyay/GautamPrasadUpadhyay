@@ -2,7 +2,8 @@
 <p> Hi there! I am Gautam, a programmer and aspiring software engineer with strong problem solving skills. I have experience in Full Stack Development and learning AI/ML, DevOps and DSA. I enjoy building intelligent solutions and scalable applications while continuously learning and innovating.</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="255">
+  <a href="https://github.com/GautamPrasadUpadhyay"><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="255"></a>
+  
 </p>
 
 <p align="center">
