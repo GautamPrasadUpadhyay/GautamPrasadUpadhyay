@@ -77,7 +77,9 @@
   <img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=GautamPrasadUpadhyay&hide_border=false" alt="GitHub Streak Stats">
 </picture>-->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GautamPrasadUpadhyay)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=GautamPrasadUpadhyay" alt="GitHub Streak Stats for yourusername">
+    </a>
 
 </a>
 </p>
