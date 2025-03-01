@@ -46,10 +46,10 @@
 <br>
 <h2>🤝 Connect with me!</h2>
 <p align="left">
-<a href="https://x.com/GautamlUpadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GautamlUpadhyay" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/gautam-prasad-upadhyay-291531296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumarjaiswal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/MrArtist1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="MrArtist1" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Gautam_Prasad_Upadhyay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Gautam_Prasad_Upadhyay" height="30" width="40" /></a>
+<a href="https://x.com/GautamlUpadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GautamlUpadhyay" height="30" width="40" /></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/gautam-prasad-upadhyay-291531296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumarjaiswal" height="30" width="40" /></a> &nbsp; &nbsp;
+<a href="https://www.hackerrank.com/profile/MrArtist1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="MrArtist1" height="30" width="40" /></a> &nbsp; &nbsp;
+<a href="https://leetcode.com/u/Gautam_Prasad_Upadhyay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Gautam_Prasad_Upadhyay" height="30" width="40" /></a> &nbsp; &nbsp;
 <a href="https://www.codechef.com/users/gautam5555" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/c432a21abaa4326f9e64194b3a0a7224b4069ace/topics/codechef/codechef.png" alt="gautam5555" height="50" width="55" /></a>
 </p>
 <br>
