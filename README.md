@@ -75,7 +75,7 @@
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=GautamPrasadUpadhyay&theme=dark&hide_border=false">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=GautamPrasadUpadhyay&hide_border=false">
-  <img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=GautamPrasadUpadhyay&hide_border=false" alt="GitHub Streak Stats">
+  <img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=GautamPrasadUpadhyay&hide_border=false" alt="">
 </picture>
 
 
