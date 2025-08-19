@@ -59,13 +59,13 @@
 <td>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamPrasadUpadhyay&layout=compact&theme=dark&show_icons=true">
-    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush0898&layout=compact&theme=dark&show_icons=true"/>
+    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamPrasadUpadhyay&layout=compact&theme=dark&show_icons=true"/>
 </picture>
 </td>
 <td>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=GautamPrasadUpadhyay&theme=dark&show_icons=true">
-    <img align="center" width="100%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true"/>
+    <img align="center" width="100%" src="https://github-readme-stats-ouuan.vercel.app/api?username=GautamPrasadUpadhyay&show_icons=true"/>
 </picture>
 </td>
 </tr>
