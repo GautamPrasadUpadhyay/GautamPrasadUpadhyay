@@ -57,10 +57,15 @@
 <table>
 <tr>
 <td>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamPrasadUpadhyay&layout=compact&theme=dark&show_icons=true">
-    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamPrasadUpadhyay&layout=compact&theme=dark&show_icons=true"/>
-</picture>
+ <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamPrasadUpadhyay&layout=compact&theme=dark&show_icons=true&langs_count=8">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamPrasadUpadhyay&layout=compact&show_icons=true&langs_count=8">
+    <img alt="Top languages"
+         width="100%"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamPrasadUpadhyay&layout=compact&show_icons=true&langs_count=8" />
+  </picture>
 </td>
 <td>
 <picture>
